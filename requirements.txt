@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+faiss-cpu
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-faiss
+elevenlabs
+audio-recorder-streamlit
