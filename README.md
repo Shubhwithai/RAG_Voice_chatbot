@@ -32,7 +32,7 @@ An AI-powered assistant that combines **voice input/output** with **RAG (Retriev
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Bharath4ru/voice-rag-assistant.git
+git clone https://github.com/shubhwithai/voice-rag-assistant.git
 cd voice-rag-assistant
 ```
 
@@ -80,4 +80,3 @@ audio-recorder-streamlit
 ## 📄 License
 
 MIT License
-# RAG_Voice_chatbot
